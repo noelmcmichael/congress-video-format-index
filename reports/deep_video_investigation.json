@@ -1,0 +1,145 @@
+[
+  {
+    "committee": "Senate Commerce, Science, and Transportation",
+    "url": "http://www.commerce.senate.gov/",
+    "investigation_methods": [
+      "main_page_analysis",
+      "hearing_page_discovery",
+      "common_path_check"
+    ],
+    "video_formats_found": [
+      {
+        "format": "MP4",
+        "url": "https://www.commerce.senate.gov/themes/commerce/assets/img/bg_commerce.mp4",
+        "description": "MP4 video file - direct download"
+      }
+    ],
+    "streaming_endpoints": [
+      "https://www.commerce.senate.gov/themes/commerce/assets/img/bg_commerce.mp4"
+    ],
+    "underlying_formats": [
+      "MP4 Progressive Download"
+    ],
+    "technical_details": {
+      "main_page": {
+        "video_players_detected": [
+          "youtube"
+        ],
+        "javascript_libraries": [],
+        "embedded_content": [
+          "https://senate.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.commerce.senate.gov"
+        ],
+        "streaming_indicators": [
+          ".mp4"
+        ]
+      },
+      "hearing_pages": [
+        "https://www.commerce.senate.gov/hearings",
+        "https://www.commerce.senate.gov/hearings1",
+        "https://www.commerce.senate.gov/markups",
+        "https://www.commerce.senate.gov/2025/7/nominations-hearing-for-department-of-commerce-nominees",
+        "https://www.commerce.senate.gov/2025/7/nominations-hearing-for-department-of-commerce-nominees_2",
+        "https://www.commerce.senate.gov/2025/6/executive-session-12",
+        "https://www.commerce.senate.gov/2025/6/on-the-right-track-modernizing-america-s-rail-network_2",
+        "https://www.commerce.senate.gov/2025/5/wada-shame-swimming-in-denial-over-chinese-doping_2_2_2"
+      ],
+      "common_paths": []
+    }
+  },
+  {
+    "committee": "Senate Judiciary",
+    "url": "http://www.judiciary.senate.gov/",
+    "investigation_methods": [
+      "main_page_analysis",
+      "hearing_page_discovery",
+      "common_path_check"
+    ],
+    "video_formats_found": [],
+    "streaming_endpoints": [],
+    "underlying_formats": [],
+    "technical_details": {
+      "main_page": {
+        "video_players_detected": [
+          "jwplayer",
+          "youtube"
+        ],
+        "javascript_libraries": [],
+        "embedded_content": [],
+        "streaming_indicators": [
+          ".webm",
+          "stream"
+        ]
+      },
+      "hearing_pages": [
+        "https://www.judiciary.senate.gov/committee-activity/hearings",
+        "https://www.judiciary.senate.gov/press/rep/releases/grassley-opens-executive-business-meeting-on-nominations",
+        "https://www.judiciary.senate.gov/press/rep/releases/grassley-opens-hearing-on-judicial-nominations-for-third-circuit-florida-district-courts",
+        "https://www.judiciary.senate.gov/hearings",
+        "https://www.judiciary.senate.gov/committee-activity/hearings/executive-business-meeting-06-26-2025",
+        "https://www.judiciary.senate.gov/committee-activity/hearings/enter-the-dragonchina-and-the-lefts-lawfare-against-american-energy-dominance",
+        "https://www.judiciary.senate.gov/committee-activity/hearings/nominations-06-25-2025"
+      ],
+      "common_paths": []
+    }
+  },
+  {
+    "committee": "Senate Banking, Housing, and Urban Affairs",
+    "url": "http://www.banking.senate.gov/public",
+    "investigation_methods": [
+      "main_page_analysis",
+      "hearing_page_discovery",
+      "common_path_check"
+    ],
+    "video_formats_found": [
+      {
+        "format": "MP4",
+        "url": "https://www.banking.senate.gov/themes/banking/images/banking-2025.mp4",
+        "description": "MP4 video file - direct download"
+      },
+      {
+        "format": "MP4",
+        "url": "https://www.banking.senate.gov/themes/banking/images/banking-2025.mp4",
+        "description": "MP4 video file - direct download"
+      },
+      {
+        "format": "MP4",
+        "url": "https://www.banking.senate.gov/themes/banking/images/banking-2025.mp4",
+        "description": "MP4 video file - direct download"
+      }
+    ],
+    "streaming_endpoints": [
+      "https://www.banking.senate.gov/themes/banking/images/banking-2025.mp4",
+      "https://www.banking.senate.gov/themes/banking/images/banking-2025.mp4",
+      "https://www.banking.senate.gov/themes/banking/images/banking-2025.mp4"
+    ],
+    "underlying_formats": [
+      "MP4 Progressive Download",
+      "MP4 Progressive Download",
+      "MP4 Progressive Download"
+    ],
+    "technical_details": {
+      "main_page": {
+        "video_players_detected": [
+          "jwplayer",
+          "youtube"
+        ],
+        "javascript_libraries": [],
+        "embedded_content": [
+          "https://platform.twitter.com/widgets/widget_iframe.2f70fb173b9000da126c79afe2098f02.html?origin=https%3A%2F%2Fwww.banking.senate.gov"
+        ],
+        "streaming_indicators": [
+          ".mp4"
+        ]
+      },
+      "hearing_pages": [
+        "https://www.banking.senate.gov/newsroom/press-release-archive",
+        "https://www.banking.senate.gov/hearings",
+        "https://www.banking.senate.gov/hearings/witness-list",
+        "https://www.banking.senate.gov/markups",
+        "https://www.banking.senate.gov/newsroom/majority/scott-pushes-for-blue-collar-comeback-highlights-trump-nominees-at-hearing",
+        "https://www.banking.senate.gov/hearings/from-wall-street-to-web3-building-tomorrows-digital-asset-markets"
+      ],
+      "common_paths": []
+    }
+  }
+]
