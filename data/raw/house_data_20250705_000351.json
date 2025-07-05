@@ -1,0 +1,18 @@
+{
+  "committees": [],
+  "subcommittees": [],
+  "hearings": [],
+  "video_formats": [],
+  "scrape_logs": [
+    {
+      "id": null,
+      "target_url": "https://www.house.gov/committees",
+      "scrape_type": "committee",
+      "status": "success",
+      "records_found": 0,
+      "error_message": "",
+      "scrape_duration": 1.934854,
+      "created_at": null
+    }
+  ]
+}

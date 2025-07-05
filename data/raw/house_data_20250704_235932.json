@@ -1,0 +1,39 @@
+{
+  "committees": [
+    {
+      "id": 1,
+      "name": "View s No Longer Standing from previous Congresses",
+      "chamber": "house",
+      "official_url": "https://www.house.gov/committees/committees-no-longer-standing",
+      "committee_code": "",
+      "description": "House View Committees No Longer Standing from previous Congresses",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "subcommittees": [],
+  "hearings": [],
+  "video_formats": [],
+  "scrape_logs": [
+    {
+      "id": null,
+      "target_url": "https://www.house.gov/committees",
+      "scrape_type": "committee",
+      "status": "success",
+      "records_found": 1,
+      "error_message": "",
+      "scrape_duration": 1.417981,
+      "created_at": null
+    },
+    {
+      "id": null,
+      "target_url": "https://www.house.gov/committees/committees-no-longer-standing",
+      "scrape_type": "committee_detail",
+      "status": "success",
+      "records_found": 0,
+      "error_message": "",
+      "scrape_duration": 4.710783,
+      "created_at": null
+    }
+  ]
+}
